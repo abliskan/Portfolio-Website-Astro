@@ -1,0 +1,1 @@
+.astro itu mirip kayak jsx sebagai template engine
