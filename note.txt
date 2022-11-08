@@ -2,3 +2,28 @@
 README.md content:
 Portfolio Website 
 My personal site built with Astro.
+-----------------------------------------------
++ Display
+Hi there!
+I'm Ricky Suhanry
+
+Web Developer | Backend Developer
+
+You can find information about me related to what i learn and build related to web dev and other stuff.
+
+Github | Twitter | Linked | Medium (Comming Soon) | Hashnode (Comming Soon)
+
++ About
+Welcome to my personal website~ 
+I Web developer from Pangkal Pinang, Bangka Belitung Islands. 
+I pursued a bachelor degree in Informatics Engineering minor in Data Engineering and Business Process Re-engineering
+I also graduated student from Tech Bootcamp at the YABB (Yayasan Anak Bangsa Bisa).
+
+What I Do
+I do fullstack development sometimes, but I more comfortable in backend development.
+My field of Interest's are building new  Web Technologies and also in areas related to Data Engineering and Cloud Computing.
+Apart from web development, I love to watch movie especially Superhero film from MCU (Marvel Cinematic Universe).
+
+This website was design and created by Ricky Suhanry using Astro build, React, Typescript and host on Netlify.
+@2022 by RickySuhanry. All rights reserved.
+-----------------------------------------------
