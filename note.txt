@@ -27,3 +27,34 @@ Apart from web development, I love to watch movie especially Superhero film from
 This website was design and created by Ricky Suhanry using Astro build, React, Typescript and host on Netlify.
 @2022 by RickySuhanry. All rights reserved.
 -----------------------------------------------
+Official doc:
+- astro
+  V Astro-notion integration = https://astro.build/integrations/?search=notion
+                               https://www.npmjs.com/package/@jcha0713/astro-notion
+  V Astro-template:
+   [note: same background and layout design]
+   https://patloeber.com/
+   https://demo.maxencewolff.com/
+
+   [note: the design can be use to build digital resume]
+   https://blogster-newspaper.netlify.app/
+
+   [note: the design similar to someone that now become ML engineer at tiktok]
+   https://astro-portfolio-starter-demo.netlify.app/#projects
+  
+   [note: portfolio template]
+   https://github.com/manuelernestog/astrofy
+   https://github.com/drehimself/astro-portfolio-starter
+ 
+   [note: personal blog purpose]
+   https://github.com/robertguss/Astro-Theme-Creek
+Reference:
++ Youtube
+
+- other
+[porto]
+https://tusharrajpoot.com/?s=35 | WebDev / Backend / DevOps
+https://falshrawr.github.io/ | Data Scientist
+https://resume.harshdaiya.com/ | Data Engineer
+https://github.com/alexdeploy/developer-portfolio-v2 | full-stack developer
+https://www.cheeyeo.dev/about/ | SWE / Cloud Engineer
